@@ -3,3 +3,5 @@
 #include "file.h"
 
 void function whatever(){return;}
+
+void branchA_func(){}
