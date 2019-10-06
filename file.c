@@ -6,3 +6,9 @@ void function whatever(){return;}
 
 void branchA_func(){}
 void branchB_function(){}
+
+EXTERN void branchC_fwd_declaration(int whatever);
+
+void branchC_function(){}
+
+//branchC comment
