@@ -12,3 +12,9 @@ EXTERN void branchC_fwd_declaration(int whatever);
 void branchC_function(){}
 
 //branchC comment
+
+typedef struct branchD_struct{
+
+} t_branchD_struct;
+
+void branchDC_function(){}
