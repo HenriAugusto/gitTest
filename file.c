@@ -5,3 +5,4 @@
 void function whatever(){return;}
 
 void branchA_func(){}
+void branchB_function(){}
