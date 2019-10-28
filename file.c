@@ -1,5 +1,7 @@
 //i've forgot to add contents to the file
 
+//this is just a comment to test the fast forward method.
+
 #include "file.h"
 
 void function whatever(){return;}
